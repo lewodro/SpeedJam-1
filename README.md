@@ -1,9 +1,9 @@
 # The Paw Bandit !!
 
-**ScoreSpace Game Jam 2023 Entry**  
+**ScoreSpace Game Jam 2024 Entry**  
 **Genre:** Adventure / Strategy  
 **Status:** Released  
-**Published:** February 20, 2023  
+**Published:** February 20, 2024  
 **Author:** Vasily (cxwig)  
 **Play here:** [https://cxwig.itch.io/thepawbandit](https://cxwig.itch.io/thepawbandit)
 
